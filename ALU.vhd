@@ -1,21 +1,6 @@
-----------------------------------------------------------------------------------
--- Engineer: 
 -- 
--- Create Date:    23:29:39 07/24/2018 
--- Design Name: 
--- Module Name:    ALU - Behavioral 
--- Project Name: 
--- Target Devices: 
--- Tool versions: 
--- Description: 
+-- USV | 3112A | 25.05.2020
 --
--- Dependencies: 
---
--- Revision: 
--- Revision 0.01 - File Created
--- Additional Comments: 
---
-----------------------------------------------------------------------------------
 library IEEE;
 use IEEE.STD_LOGIC_1164.ALL;
 
